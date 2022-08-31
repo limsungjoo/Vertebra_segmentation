@@ -23,7 +23,7 @@ This network and related paper will be submitted in September, 2022.
 Model Architecture   
 ![image](https://user-images.githubusercontent.com/48985628/187608509-aad9af10-031e-4bb0-a575-77b6f3144bca.png)
 
-<img src="https://user-images.githubusercontent.com/48985628/187622895-d23315ca-3dd1-43db-8ec3-60bdf70d6e26.png" width="500px" height=500px" title="Comparison of ground truth and predictions" alt="image"></img>
+<img src="https://user-images.githubusercontent.com/48985628/187622895-d23315ca-3dd1-43db-8ec3-60bdf70d6e26.png" width="500" height=500" title="Comparison of ground truth and predictions"/>
 
 # Centroid UNet
 This network detects the centroids of the vertebrae for the localization of the vertebra using U-Net.    
