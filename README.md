@@ -1,6 +1,6 @@
 Vertebra Segmentation
 =====================
-* [Center+Coordconv U-Net](#1. Center+Coordconv U-Net)
+* [Center+Coordconv U-Net](#1.-center+coordconv-unet)
 * [Centroid-UNet](#2. Centroid-UNet)
 * [Coordconv U-Net](#3. Coordconv U-Net)
 * [TransUNet](#4. TransUNet)
