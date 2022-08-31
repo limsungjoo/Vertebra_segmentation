@@ -23,15 +23,14 @@ This network and related paper will be submitted in September, 2022.
 Model Architecture   
 ![image](https://user-images.githubusercontent.com/48985628/187608509-aad9af10-031e-4bb0-a575-77b6f3144bca.png)
 
-Results   
-![image](https://user-images.githubusercontent.com/48985628/187622895-d23315ca-3dd1-43db-8ec3-60bdf70d6e26.png)
+<img src="https://user-images.githubusercontent.com/48985628/187622895-d23315ca-3dd1-43db-8ec3-60bdf70d6e26.png" width="500px" height=500px" title="Comparison of ground truth and predictions" </img><br/>
 
 # Centroid UNet
 This network detects the centroids of the vertebrae for the localization of the vertebra using U-Net.    
 Thus, the centroids which are extracted from the Centroid UNet are added to the input channel of the segmentation model(Center+Coordconv UNet).    
 
 Results    
-![image](https://user-images.githubusercontent.com/48985628/187622462-5efc8433-5b42-488a-a17c-65977e567040.png)
+![image](https://user-images.githubusercontent.com/48985628/187630961-d99647b8-3fd3-4044-9297-a5c4675899cf.png)
 
 # Coordconv UNet
 Overall structure is that Coordconv layers are combined with the input layer of the model based on U-Net.     
