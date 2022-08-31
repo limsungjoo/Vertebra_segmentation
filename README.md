@@ -6,18 +6,18 @@ Vertebra Segmentation
 * [TransUNet](#4.-Transunet)
 * [U-Net](#5.-unet)
 
-1. Center+coordconv UNet
+#1. Center+coordconv UNet
 ---------------------
 
 
 * Model Architecture
 ![image](https://user-images.githubusercontent.com/48985628/187608509-aad9af10-031e-4bb0-a575-77b6f3144bca.png)
 
-2. Centroid UNet
+#2. Centroid UNet
 ------------------
-3. Coordconv UNet
+#3. Coordconv UNet
 ------------------
-4. TransUNet
+#4. TransUNet
 ------------------
-5. UNet
+#5. UNet
 ------------------
