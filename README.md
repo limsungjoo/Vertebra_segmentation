@@ -30,7 +30,7 @@ This network and related paper will be submitted in September, 2022.
 This network detects the centroids of the vertebrae for the localization of the vertebra using U-Net.    
 Thus, the centroids which are extracted from the Centroid UNet are added to the input channel of the segmentation model(Center+Coordconv UNet).    
 
-Results    
+## Results    
 ![image](https://user-images.githubusercontent.com/48985628/187630961-d99647b8-3fd3-4044-9297-a5c4675899cf.png)
 
 # Coordconv UNet
@@ -47,12 +47,12 @@ U-Net, which is used as the base of the segmentation network, is an end-to-end c
 Reference from the paper: [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)    
 
 ## U-Net Architecture         
-![image](https://user-images.githubusercontent.com/48985628/187627436-58fa0f6b-082d-468c-8782-0c6f8b398936.png)
+<img src="https://user-images.githubusercontent.com/48985628/187627436-58fa0f6b-082d-468c-8782-0c6f8b398936.png" width="600" height="400"/>
 
 # Experiments
 Comparison of results for several segmentation networks    
 |Networks|Dice Score|
-|--------|----|
+|:--------:|:----:|
 |Center+Coordconv UNet|0.9408|
 |Coordconv UNet|0.9362|
 |TransUNet|0.9243|
