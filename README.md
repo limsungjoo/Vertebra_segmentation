@@ -1,5 +1,7 @@
 Vertebra Segmentation
 =====================
+I have studied various methods to improve segmentation performance for Vertebra X-ray images.
+The following models have been developed and the results of the models were compared.      
 * [Segmentation Requirements](#segmentation-requirements)
 * [Center_Coordconv UNet](#center_coordconv-unet)
 * [Centroid-UNet](#centroid-unet)
