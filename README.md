@@ -1,9 +1,9 @@
 Vertebra Segmentation
 =====================
 * [Segmentation Requirements](#segmentation-requirements)
-* [Center+Coordconv U-Net](#center+coordconv-unet)
+* [Center+Coordconv UNet](#center+coordconv-unet)
 * [Centroid-UNet](#centroid-unet)
-* [Coordconv U-Net](#coordconv-unet)
+* [Coordconv UNet](#coordconv-unet)
 * [TransUNet](#Transunet)
 * [U-Net](#unet)
 * [Experiments](#experiments)
