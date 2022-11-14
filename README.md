@@ -56,8 +56,9 @@ Reference from the paper: [U-Net: Convolutional Networks for Biomedical Image Se
 Comparison of results for several segmentation networks    
 |Networks|Dice Score|
 |:--------:|:----:|
-|Center+Coordconv UNet|0.9408|
-|Coordconv UNet|0.9362|
+|Center+Coordconv UNet w/ DA|0.9514|
+|Center+Coordconv UNet|0.9494|
+|Coordconv UNet|0.9152|
 |TransUNet|0.9243|
-|UNet|0.9117|
+|UNet|0.9002|
 
