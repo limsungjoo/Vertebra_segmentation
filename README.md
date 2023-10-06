@@ -2,8 +2,8 @@ Vertebra Segmentation
 =====================
 I have studied various methods to improve segmentation performance for Vertebra X-ray images.
 The following models have been developed and the results of the models were compared.    
-[Paper] "Deep Learning-based Spine Segmentation Technique Using the Center Point of the Spine and Modified U-Net" in the Journal of the Korean Society for Medical and Biological Engineering (Vol. 44, No. 2), April 2023
-[Paper] Submitted for a paper titled “General Vertebral Body Radiography Segmentation using Coordconv Layers and Center Points with U-Net” to the journal PLOS ONE
+[Paper] "Deep Learning-based Spine Segmentation Technique Using the Center Point of the Spine and Modified U-Net" in the Journal of the Korean Society for Medical and Biological Engineering (Vol. 44, No. 2), April 2023.
+[Paper] Submitted for a paper titled “General Vertebral Body Radiography Segmentation using Coordconv Layers and Center Points with U-Net” to the journal PLOS ONE.
 
 * [Segmentation Requirements](#segmentation-requirements)
 * [Center_Coordconv UNet](#center_coordconv-unet)
